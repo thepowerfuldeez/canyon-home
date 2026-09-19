@@ -4,7 +4,7 @@ window.CANYON_CATALOG = {
     {
       "id": "home-office",
       "title": "Home office",
-      "summary": "One complete workstation: warm walnut, adjustable posture, clear surfaces, and a single place for every cable. Confirm whether a second workstation is needed.",
+      "summary": "One complete workstation, with warm walnut and concealed cables. Decide whether the second bedroom is an office, guest room or both before adding a second desk or guest bed; neither is assumed purchased.",
       "items": [
         {
           "id": "desk",
@@ -418,7 +418,7 @@ window.CANYON_CATALOG = {
           "brand": "Grovemade",
           "quantity": 1,
           "priority": "Move-in",
-          "price": null,
+          "price": 0,
           "priceNote": "Included with the shortlisted Grovemade desk; no separate purchase.",
           "url": "https://grovemade.com/product/wood-standing-desk/",
           "amazonUrl": null,
@@ -438,7 +438,9 @@ window.CANYON_CATALOG = {
           "status": "pending",
           "optional": false,
           "stage": "arrival",
-          "checked": "19 Sep 2026"
+          "checked": "19 Sep 2026",
+          "priceLabel": "Included",
+          "badge": "Included in setup"
         },
         {
           "id": "calls",
@@ -447,7 +449,7 @@ window.CANYON_CATALOG = {
           "brand": "Apple",
           "quantity": 1,
           "priority": "Move-in",
-          "price": null,
+          "price": 0,
           "priceNote": "Included with Studio Display; no separate purchase.",
           "url": "https://www.apple.com/shop/buy-mac/studio-display",
           "amazonUrl": null,
@@ -467,6 +469,71 @@ window.CANYON_CATALOG = {
           "status": "pending",
           "optional": false,
           "stage": "arrival",
+          "checked": "19 Sep 2026",
+          "priceLabel": "Included",
+          "badge": "Included in setup"
+        },
+        {
+          "id": "window-control",
+          "role": "Glare and privacy — whole-home survey",
+          "name": "Measured roller shades / curtains, only where needed",
+          "brand": "The Shade Store",
+          "quantity": 1,
+          "priority": "Move-in",
+          "price": null,
+          "priceNote": "One planning allowance; no measured quote yet. Excluded from priced subtotal.",
+          "url": "https://www.theshadestore.com/shades/roller-shades",
+          "amazonUrl": null,
+          "image": "https://static.theshadestore.com/s3/theshadestore/cms/social_media/the-shade-store-roller-shades-window-treatments-venetian-roller-shades-over-stairs-horse-statue-hero-image-317x230.jpg",
+          "imageSource": "https://www.theshadestore.com/shades/roller-shades",
+          "why": "Survey every office, living-room and bedroom window before choosing extra coverings. Place the screen perpendicular to the strongest daylight where practical; use existing rental blinds first.",
+          "caveat": "Measure each window, recess and curtain-drop length; confirm supplied blinds, mounting permission and access. Solar fabrics reduce glare but do not give night privacy when indoor lights are on. Choose privacy fabric or lined curtains where needed. Coordinate bedroom blackout as one whole-home quote, not a duplicate order. Photo is a fabric-system reference, not a confirmed apartment installation.",
+          "dimensions": "Quantity and dimensions to measure per window",
+          "finish": "Warm neutral; sample in the room",
+          "alternatives": [],
+          "sources": [
+            {
+              "url": "https://www.theshadestore.com/shades/roller-shades",
+              "title": "Measured roller shades / curtains, only where needed"
+            },
+            {
+              "url": "https://www.theshadestore.com/blog/solar-shades-at-night/",
+              "title": "Solar shades and nighttime privacy"
+            }
+          ],
+          "status": "pending",
+          "optional": false,
+          "stage": "arrival",
+          "checked": "19 Sep 2026"
+        },
+        {
+          "id": "router",
+          "role": "Internet and router — confirm building service",
+          "name": "eero 7 — one-pack",
+          "brand": "eero",
+          "quantity": 1,
+          "priority": "Move-in",
+          "price": 154.99,
+          "priceNote": "Official US one-pack offer $154.99; regular $169.99. Verify one-pack selection and checkout price.",
+          "url": "https://www.eero.com/shop/eero-7/buy",
+          "amazonUrl": null,
+          "image": "https://contentful.prod.eero.com/contentful/o8zdilputr65/7ulkm1GCDconJztFHdmXmb/c0145ac9fd44d423dde5ef2b23407079/compressed_11-patria-xlarge.jpg.webp?fm=webp",
+          "imageSource": "https://www.eero.com/shop/eero-7/buy",
+          "why": "A simple single-router option if the apartment does not include a suitable gateway. Start with one unit and test actual coverage before adding mesh nodes.",
+          "caveat": "Confirm the address, available ISP, included equipment and Ethernet/modem/ONT handoff first. This router does not itself provide internet service or replace a required modem. App setup is required; eero Plus is optional and not included in this plan. Two 2.5GbE ports leave one wired LAN port after the uplink, so a switch may be needed if both Hue Bridge and desk Ethernet are wired.",
+          "dimensions": "One router; placement and coverage to test in the apartment",
+          "finish": "White",
+          "alternatives": [],
+          "sources": [
+            {
+              "url": "https://www.eero.com/shop/eero-7/buy",
+              "title": "eero 7 — one-pack"
+            }
+          ],
+          "status": "pending",
+          "optional": true,
+          "stage": "arrival",
+          "badge": "Optional",
           "checked": "19 Sep 2026"
         }
       ],
@@ -492,7 +559,7 @@ window.CANYON_CATALOG = {
           "image": "https://images.hermanmiller.group/m/dec08a1f328d24bf/W-HAY_2514613_100154393_charcoal_f.png",
           "imageSource": "https://www.dwr.com/living-sofas/mags-soft-low-sofa/2514613.html",
           "why": "Deep, welcoming seating with quiet lines. The dark fabric grounds the warm wood and burgundy accents while leaving the accent objects room to stand out.",
-          "caveat": "Order swatches and sit-test both partners. This is a large 92.25-inch sofa despite the 2.5-seat name. Feather-wrapped cushions need occasional plumping. Confirm delivery path and current lead time.",
+          "caveat": "Compare the cost and condition of bringing the existing sofa before replacement. Order swatches and sit-test both partners. This is a large 92.25-inch sofa despite the 2.5-seat name. Feather-wrapped cushions need occasional plumping. Confirm delivery path and current lead time.",
           "dimensions": "92.25 W × 41.5 D × 28 H in",
           "finish": "Olavi 03 Charcoal",
           "alternatives": [
@@ -520,31 +587,43 @@ window.CANYON_CATALOG = {
         },
         {
           "id": "sofashelf",
-          "role": "Sofa shelf",
-          "name": "HOLMERUD side table — dark brown",
-          "brand": "IKEA",
+          "role": "Behind-sofa console — reuse first",
+          "name": "Slim Console — 48 × 12 × 27 in, Bisque",
+          "brand": "Room & Board",
           "quantity": 1,
           "priority": "Core",
-          "price": 59.99,
-          "priceNote": "Observed US unit price, before tax and delivery; recheck at checkout.",
-          "url": "https://www.ikea.com/us/en/p/holmerud-side-table-dark-brown-20538721/",
+          "price": 499,
+          "priceNote": "Verified $499 US structured offer for 48 × 12 × 27-inch Bisque SKU 129207; other dimensions/colors differ.",
+          "url": "https://www.roomandboard.com/catalog/living/consoles/slim-console-tables/129207",
           "amazonUrl": null,
-          "image": "https://www.ikea.com/us/en/images/products/holmerud-side-table-dark-brown__1193661_pe901561_s5.jpg",
-          "imageSource": "https://www.ikea.com/us/en/p/holmerud-side-table-dark-brown-20538721/",
-          "why": "Architectural, shallow open storage for books and a drink. Works beside the sofa or as one module in a low rear shelf.",
-          "caveat": "Buy one after measuring. Two units are not automatically required; confirm a rear position does not consume the walkway. Paper-foil finish, not solid walnut.",
-          "dimensions": "31.5 W × 12.25 D × 20.5 H in",
-          "finish": "Dark brown",
-          "alternatives": [],
+          "image": "https://rnb.scene7.com/is/image/roomandboard/xquesxsrcxeqxir%7Broomandboardrender/slim_48w_12d_27h_1-2lxquesxobjxeqxcolorxampxshowxampxsrcxeqxrpt_BSQU%7D",
+          "imageSource": "https://www.roomandboard.com/catalog/living/consoles/slim-console-tables/129207",
+          "why": "First assess bringing the existing custom birch sofa shelf. If it stays behind, this narrow steel console creates a proper ledge behind a sofa, unlike a low side table.",
+          "caveat": "Only a conditional replacement. Measure the new sofa back, walkway and outlets. The 27-inch height sits just below the shortlisted sofa’s 28-inch back; verify in person. A 40 × 8-inch version offers a shallower footprint but less width. Image is the 48-inch Bisque configuration.",
+          "dimensions": "48 W × 12 D × 27 H in",
+          "finish": "Bisque powder-coated steel",
+          "alternatives": [
+            {
+              "name": "Slim 40 × 8 × 27 in",
+              "url": "https://www.roomandboard.com/catalog/living/consoles/slim-console-tables",
+              "why": "Shallower genuine sofa-back console when circulation is tight; configure after measuring."
+            },
+            {
+              "name": "HOLMERUD side table",
+              "url": "https://www.ikea.com/us/en/p/holmerud-side-table-dark-brown-20538721/",
+              "why": "Low side-of-sofa storage only; not an equivalent-height behind-sofa ledge."
+            }
+          ],
           "sources": [
             {
-              "url": "https://www.ikea.com/us/en/p/holmerud-side-table-dark-brown-20538721/",
+              "url": "https://www.roomandboard.com/catalog/living/consoles/slim-console-tables/129207",
               "title": "HOLMERUD side table, dark-brown, 311/2x121/4\"  - IKEA"
             }
           ],
           "status": "pending",
-          "optional": false,
+          "optional": true,
           "stage": "core",
+          "badge": "Optional",
           "checked": "19 Sep 2026"
         },
         {
@@ -716,6 +795,11 @@ window.CANYON_CATALOG = {
               "name": "Zig Zag Low — oak",
               "url": "https://hem.com/en-us/furniture/shelving-and-storage/zig-zag/14142",
               "why": "Lower and visually quieter if the living room should stay open; another warm wood choice."
+            },
+            {
+              "name": "BILLY low bookcase — brown walnut effect",
+              "url": "https://www.ikea.com/us/en/p/billy-bookcase-brown-walnut-effect-30508648/",
+              "why": "Verified $59 US; 31.5 × 11 × 41.75 in. A simple low-cost starter, with paper-foil finish rather than walnut veneer. Secure as instructed; confirm address-specific stock."
             }
           ],
           "sources": [
@@ -861,7 +945,7 @@ window.CANYON_CATALOG = {
           "image": "https://us.usm.com/cdn/shop/products/QS_B218_31_1200x1200.png?v=1713194091",
           "imageSource": "https://us.usm.com/products/usm-haller-media-b218",
           "why": "Two drop-down compartments hide accessories and cables while the modular steel-and-chrome structure adds a crisp contrast to wood.",
-          "caveat": "Choose after deciding TV versus projector. A 15-inch-deep console is not automatically suitable for an ultra-short-throw projector. Check AV ventilation, TV feet and anti-tip requirements.",
+          "caveat": "First assess bringing the existing custom projector/record console. Buy a replacement only if it stays behind or does not fit. Choose after deciding TV versus projector. A 15-inch-deep console is not automatically suitable for an ultra-short-throw projector. Check AV ventilation, TV feet and anti-tip requirements.",
           "dimensions": "60 W × 15 D × 17 H in",
           "finish": "USM Beige",
           "alternatives": [
@@ -869,6 +953,11 @@ window.CANYON_CATALOG = {
               "name": "Hem Zig Zag Media — black",
               "url": "https://hem.com/en-us/furniture/shelving-and-storage/zig-zag/30985",
               "why": "Less expensive open shelf; lacks closed storage and was out of stock when checked."
+            },
+            {
+              "name": "BESTÅ / LAPPVIKEN closed TV bench",
+              "url": "https://www.ikea.com/us/en/p/besta-tv-bench-with-doors-white-lappviken-brown-walnut-effect-s59612183/",
+              "why": "Practical value alternative with white frame and walnut-effect doors, 70.875 × 16.5 × 15 in. Check selected components, ventilation, assembly and address-specific availability."
             }
           ],
           "sources": [
@@ -878,8 +967,9 @@ window.CANYON_CATALOG = {
             }
           ],
           "status": "pending",
-          "optional": false,
+          "optional": true,
           "stage": "core",
+          "badge": "Optional",
           "checked": "19 Sep 2026"
         },
         {
@@ -933,6 +1023,95 @@ window.CANYON_CATALOG = {
             {
               "url": "https://www.muji.us/collections/duvets-duvet-covers/products/waffle-weave-blanket-single-jcal5a6s?variant=46602800627902",
               "title": "Waffle Weave Blanket Single | Throw Blanket | MUJI USA"
+            }
+          ],
+          "status": "pending",
+          "optional": true,
+          "stage": "later",
+          "badge": "Optional",
+          "checked": "19 Sep 2026"
+        },
+        {
+          "id": "floorlamp-bulbs",
+          "role": "Floor-lamp bulbs",
+          "name": "SOLHETTA E26 800 lm, 2700 K — 2-pack",
+          "brand": "IKEA",
+          "quantity": 2,
+          "priority": "Move-in",
+          "price": 4.99,
+          "priceNote": "$4.99 per 2-pack; quantity 2 means four bulbs for $9.98.",
+          "url": "https://www.ikea.com/us/en/p/solhetta-led-bulb-e26-800-lumen-dimmable-globe-opal-20583935/",
+          "amazonUrl": null,
+          "image": "https://www.ikea.com/us/en/images/products/solhetta-led-bulb-e26-800-lumen-dimmable-globe-opal__0988839_pe818255_s5.jpg",
+          "imageSource": "https://www.ikea.com/us/en/p/solhetta-led-bulb-e26-800-lumen-dimmable-globe-opal-20583935/",
+          "why": "Two packs provide the three bulbs required by the STOCKHOLM floor lamp and one spare. Warm white, CRI 90 light works with its linen shade.",
+          "caveat": "These are ordinary LED bulbs, separate from the two bedroom Hue bulbs. For app control, replace this whole line with three compatible Hue bulbs after checking lamp/socket clearance; do not buy both sets.",
+          "dimensions": "E26; 5 W each; 2 in diameter × 4 in high",
+          "finish": "Opal / 2700 K",
+          "alternatives": [],
+          "sources": [
+            {
+              "url": "https://www.ikea.com/us/en/p/solhetta-led-bulb-e26-800-lumen-dimmable-globe-opal-20583935/",
+              "title": "SOLHETTA E26 800 lm, 2700 K — 2-pack"
+            }
+          ],
+          "status": "shortlisted",
+          "optional": false,
+          "stage": "arrival",
+          "checked": "19 Sep 2026"
+        },
+        {
+          "id": "projector-stand",
+          "role": "Projector stand — projector branch only",
+          "name": "Floor Stand — Elephant Grey",
+          "brand": "XGIMI",
+          "quantity": 1,
+          "priority": "Later",
+          "price": 129,
+          "priceNote": "Observed US unit price, before tax and delivery; recheck at checkout.",
+          "url": "https://us.xgimi.com/products/xgimi-floor-stand-elephant-grey",
+          "amazonUrl": null,
+          "image": "https://us.xgimi.com/cdn/shop/files/1ead45b2853f6c025691bd129c4bcf70_9cef4fc8-b127-4196-a62e-315c236dd2e5_1200x1200.png?v=1763619692",
+          "imageSource": "https://us.xgimi.com/products/xgimi-floor-stand-elephant-grey",
+          "why": "Manufacturer-listed support for HORIZON 20 Series, with a weighted base and quick-install interface. Consider it only if the existing console cannot place the projector correctly.",
+          "caveat": "Conditional on choosing the projector instead of TV. Verify lens height, throw, cable path and a position outside the walkway. Check whether the projector bundle already includes this stand. Do not assume older XGIMI stands use the same connection. Photo may show the projector for context; this price is for the stand only.",
+          "dimensions": "28.04 H × 11.81 W × 11.81 D in; 6 kg maximum load",
+          "finish": "Elephant Grey",
+          "alternatives": [],
+          "sources": [
+            {
+              "url": "https://us.xgimi.com/products/xgimi-floor-stand-elephant-grey",
+              "title": "Floor Stand — Elephant Grey"
+            }
+          ],
+          "status": "pending",
+          "optional": true,
+          "stage": "later",
+          "badge": "Optional",
+          "checked": "19 Sep 2026"
+        },
+        {
+          "id": "projector-screen",
+          "role": "Projection screen — measured option",
+          "name": "STR-169100 fixed frame — 100 in, matte white",
+          "brand": "Silver Ticket Products",
+          "quantity": 1,
+          "priority": "Later",
+          "price": 229.98,
+          "priceNote": "Observed US unit price, before tax and delivery; recheck at checkout.",
+          "url": "https://www.silverticketproducts.com/products/str-169100",
+          "amazonUrl": null,
+          "image": "https://www.silverticketproducts.com/cdn/shop/files/169100_2026_grande.jpg?v=1771954969",
+          "imageSource": "https://www.silverticketproducts.com/products/str-169100",
+          "why": "A tensioned matte-white surface and black frame for controlled evening viewing. An exact US-source candidate when a flat wall alone is not satisfactory.",
+          "caveat": "Only for the projector branch, after confirming screen size, projector throw and rental wall-mounting permission. Requires assembly and suitable wall fixing. A 100-inch image is a candidate, not the known correct size for Canyon. Matte white does not solve daylight glare; assess the whole room first. Existing suitable screen or wall may avoid this purchase.",
+          "dimensions": "Outer 91.875 W × 53.75 H × 1.25 D in; image 87.125 × 49 in; 27 lb",
+          "finish": "Matte white / black velvet-wrapped frame",
+          "alternatives": [],
+          "sources": [
+            {
+              "url": "https://www.silverticketproducts.com/products/str-169100",
+              "title": "STR-169100 fixed frame — 100 in, matte white"
             }
           ],
           "status": "pending",
@@ -1657,14 +1836,14 @@ window.CANYON_CATALOG = {
           "brand": "Made In",
           "quantity": 1,
           "priority": "Move-in essentials",
-          "price": null,
-          "priceNote": "Current US price requires checkout verification.",
+          "price": 139,
+          "priceNote": "Observed USD on 19 September 2026 after selecting United States in the official store; tax and shipping extra.",
           "url": "https://madeincookware.com/products/stainless-steel-frying-pan/10-inch",
           "amazonUrl": null,
           "image": "https://cdn.shopify.com/s/files/1/2131/5111/files/Web_Stainless_FryingPan_10in_1x1_Hero.jpg?v=1719871998",
           "imageSource": "https://madeincookware.com/products/stainless-steel-frying-pan/10-inch",
           "why": "A useful single piece in a three-pan capsule; stainless steel avoids a coating that needs periodic replacement.",
-          "caveat": "Price is not exposed reliably on the live US page. Hand-washing preferred; heat and cool gradually. Confirm storage and burner fit.",
+          "caveat": "Hand-washing preferred; heat and cool gradually. Confirm storage and burner fit.",
           "dimensions": "18 in long; 10.5 in total diameter",
           "finish": "Stainless steel",
           "alternatives": [],
@@ -1685,14 +1864,14 @@ window.CANYON_CATALOG = {
           "brand": "Made In",
           "quantity": 1,
           "priority": "Move-in essentials",
-          "price": null,
-          "priceNote": "Current US price requires checkout verification.",
+          "price": 149,
+          "priceNote": "Observed USD on 19 September 2026 after selecting United States in the official store; tax and shipping extra.",
           "url": "https://madeincookware.com/products/stainless-steel-sauce-pan/2-quart",
           "amazonUrl": null,
           "image": "https://cdn.shopify.com/s/files/1/2131/5111/files/Web_Stainless_SaucePan_2qt-wLid_1x1_Hero.jpg?v=1742499608",
           "imageSource": "https://madeincookware.com/products/stainless-steel-sauce-pan/2-quart",
           "why": "A useful single piece in a three-pan capsule; stainless steel avoids a coating that needs periodic replacement.",
-          "caveat": "Price is not exposed reliably on the live US page. Hand-washing preferred; heat and cool gradually. Confirm storage and burner fit.",
+          "caveat": "Selected 2-quart variant was out of stock in the US store. Recheck availability before ordering. Hand-washing preferred; heat and cool gradually. Confirm storage and burner fit.",
           "dimensions": "2 QT",
           "finish": "Stainless steel",
           "alternatives": [],
@@ -1704,7 +1883,8 @@ window.CANYON_CATALOG = {
           ],
           "status": "shortlisted",
           "stage": "arrival",
-          "checked": "19 Sep 2026"
+          "checked": "19 Sep 2026",
+          "badge": "Check stock"
         },
         {
           "id": "stockpot",
@@ -1713,14 +1893,14 @@ window.CANYON_CATALOG = {
           "brand": "Made In",
           "quantity": 1,
           "priority": "Move-in essentials",
-          "price": null,
-          "priceNote": "Current US price requires checkout verification.",
+          "price": 199,
+          "priceNote": "Observed USD on 19 September 2026 after selecting United States in the official store; tax and shipping extra.",
           "url": "https://madeincookware.com/products/stainless-steel-stock-pots/6-quart",
           "amazonUrl": null,
           "image": "https://cdn.shopify.com/s/files/1/2131/5111/files/Web_Stainless_Stockpot_6qt-wLid_1x1_Hero.jpg?v=1762197927",
           "imageSource": "https://madeincookware.com/products/stainless-steel-stock-pots/6-quart",
           "why": "A useful single piece in a three-pan capsule; stainless steel avoids a coating that needs periodic replacement.",
-          "caveat": "Price is not exposed reliably on the live US page. Hand-washing preferred; heat and cool gradually. Confirm storage and burner fit.",
+          "caveat": "Hand-washing preferred; heat and cool gradually. Confirm storage and burner fit.",
           "dimensions": "6 QT",
           "finish": "Stainless steel",
           "alternatives": [],
@@ -2225,12 +2405,12 @@ window.CANYON_CATALOG = {
           "priceNote": "Observed USD per unit on 19 September 2026; tax and shipping extra.",
           "url": "https://www.nordicware.com/products/naturals-bakers-half-sheet/",
           "amazonUrl": null,
-          "image": "https://www.nordicware.com/wp-content/uploads/2021/04/43100_Half_Sheet_Overhead_1000x1000__92562.1748023069.1280.1280.jpg",
+          "image": "https://cdn11.bigcommerce.com/s-x58in4vio5/products/328/images/5668/43100_Half_Sheet_Overhead_1000x1000__92562.1760732409.1280.1280.jpg?c=1",
           "imageSource": "https://www.nordicware.com/products/naturals-bakers-half-sheet/",
           "why": "A durable uncoated aluminum oven tray for roast vegetables and simple sheet-pan meals.",
           "caveat": "Brand page showed out of stock. Check alternate US stock; hand-wash and use parchment for easier cleanup.",
           "dimensions": "17.9 × 12.9 × 1 in",
-          "finish": "Stainless steel / black",
+          "finish": "Uncoated natural aluminum",
           "alternatives": [],
           "sources": [
             {
@@ -2902,7 +3082,8 @@ window.CANYON_CATALOG = {
           "status": "check stock",
           "checkedAt": "2026-09-19",
           "stage": "arrival",
-          "checked": "19 Sep 2026"
+          "checked": "19 Sep 2026",
+          "badge": "Check stock"
         },
         {
           "id": "blackout",
@@ -3522,7 +3703,7 @@ window.CANYON_CATALOG = {
         },
         {
           "id": "hamper",
-          "role": "Sort-at-source hamper",
+          "role": "Two-way laundry sorting: whites / everything else",
           "name": "Tota 90L Laundry Separation Basket",
           "brand": "Joseph Joseph",
           "quantity": 1,
@@ -3533,9 +3714,9 @@ window.CANYON_CATALOG = {
           "amazonUrl": null,
           "image": "https://us.josephjoseph.com/cdn/shop/products/50020_PDP_01_900x.jpg?v=1675091674",
           "imageSource": "https://us.josephjoseph.com/products/tota-90l-laundry-separation-basket-ecru",
-          "why": "Two removable handled bags make lights/darks separation automatic and carrying laundry easier.",
-          "caveat": "Confirm the closet footprint and whether two categories match actual laundry habits.",
-          "dimensions": "90 L; verify full external dimensions",
+          "why": "Two removable 45 L inner bags match the requested routine: one for whites, one for everything else. Carry each bag straight to the washer.",
+          "caveat": "Label the two bags Whites and Other colors. Separate incompatible fabrics or colors when setting the wash cycle; delicates bags stay within a compatible load. No third hamper is needed.",
+          "dimensions": "90 L total: two 45 L removable inner bags; check closet footprint",
           "finish": "Ecru",
           "alternatives": [],
           "sources": [
@@ -3544,7 +3725,7 @@ window.CANYON_CATALOG = {
               "title": "Joseph Joseph — Tota 90L Laundry Separation Basket"
             }
           ],
-          "status": "shortlist",
+          "status": "layout confirmed",
           "checkedAt": "2026-09-19",
           "stage": "arrival",
           "checked": "19 Sep 2026"
@@ -3620,8 +3801,8 @@ window.CANYON_CATALOG = {
           "amazonUrl": null,
           "image": "https://www.ikea.com/us/en/images/products/slibb-washing-bag-white-gray__1232154_pe916438_s5.jpg",
           "imageSource": "https://www.ikea.com/us/en/p/slibb-washing-bag-white-gray-60567735/",
-          "why": "Keeps smaller garments together and gives delicate laundry a clear route.",
-          "caveat": "These are small bags for socks and underwear; use larger bags for sweaters. Care labels still determine the cycle.",
+          "why": "Keep delicate socks and underwear together inside the whites or other-colors load when the care labels allow the same wash cycle.",
+          "caveat": "These are small bags, not a third laundry category. A mesh bag does not make a delicate garment compatible with an otherwise unsuitable cycle.",
           "dimensions": "8¾ × 8¾ × 7½ in each",
           "finish": "White",
           "alternatives": [
@@ -3757,6 +3938,72 @@ window.CANYON_CATALOG = {
           "checkedAt": "2026-09-19",
           "stage": "core",
           "checked": "19 Sep 2026"
+        },
+        {
+          "id": "shelf-boxes",
+          "role": "Beautiful closed storage for visible shelves",
+          "name": "KUGGIS box with bamboo lid",
+          "brand": "IKEA",
+          "quantity": 2,
+          "priority": "Core setup",
+          "price": 19.99,
+          "priceNote": "USD per box/case including lid where shown; observed 19 Sep 2026; recheck local stock",
+          "url": "https://www.ikea.com/us/en/p/kuggis-box-with-lid-white-bamboo-s39561288/",
+          "amazonUrl": null,
+          "image": "https://www.ikea.com/us/en/images/products/kuggis-box-with-lid-white-bamboo__1289724_pe934416_s5.jpg",
+          "imageSource": "https://www.ikea.com/us/en/p/kuggis-box-with-lid-white-bamboo-s39561288/",
+          "why": "White boxes with real bamboo lids bring warmth to open shelves while hiding spare cables, adapters and small household accessories. Give each box one job.",
+          "caveat": "Measure the intended shelf first. Keep bathroom backstock in the separate MUJI bins; do not duplicate this role in the vanity. Do not run charging electronics inside a closed box.",
+          "dimensions": "10¼ × 13¾ × 6 in",
+          "finish": "White / bamboo",
+          "alternatives": [
+            {
+              "name": "IKEA FJÄDERHARV paperboard box, white",
+              "url": "https://www.ikea.com/us/en/p/fjaederharv-storage-box-with-lid-white-90596901/",
+              "why": "Quiet paperboard alternative for dry paperwork or light accessories; 9¾ × 13¾ × 6¼ in. Choose instead of the KUGGIS pair, not in addition."
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://www.ikea.com/us/en/p/kuggis-box-with-lid-white-bamboo-s39561288/",
+              "title": "IKEA — KUGGIS box with bamboo lid"
+            }
+          ],
+          "status": "measure first",
+          "checkedAt": "2026-09-19",
+          "stage": "core",
+          "badge": "Measure first",
+          "checked": "19 Sep 2026"
+        },
+        {
+          "id": "linen-storage",
+          "role": "Wardrobe storage for spare bedding",
+          "name": "PURRPINGLA storage case",
+          "brand": "IKEA",
+          "quantity": 2,
+          "priority": "Core setup",
+          "price": 17.99,
+          "priceNote": "USD per box/case including lid where shown; observed 19 Sep 2026; recheck local stock",
+          "url": "https://www.ikea.com/us/en/p/purrpingla-storage-case-textile-beige-60612257/",
+          "amazonUrl": null,
+          "image": "https://www.ikea.com/us/en/images/products/purrpingla-storage-case-textile-beige__1404750_pe970217_s5.jpg",
+          "imageSource": "https://www.ikea.com/us/en/p/purrpingla-storage-case-textile-beige-60612257/",
+          "why": "Warm beige textile cases keep a spare bedding rotation and seasonal clothes contained without making the wardrobe look industrial.",
+          "caveat": "For clean, fully dry textiles. Measure shelf or under-bed clearance; do not overfill the zipper. Polyester, not linen; wipe clean, do not machine wash.",
+          "dimensions": "17 × 21 × 7 in",
+          "finish": "Textile / beige",
+          "alternatives": [],
+          "sources": [
+            {
+              "url": "https://www.ikea.com/us/en/p/purrpingla-storage-case-textile-beige-60612257/",
+              "title": "IKEA — PURRPINGLA storage case"
+            }
+          ],
+          "status": "measure first",
+          "checkedAt": "2026-09-19",
+          "stage": "core",
+          "badge": "Measure first",
+          "checked": "19 Sep 2026"
         }
       ],
       "icon": "entry",
@@ -3800,7 +4047,8 @@ window.CANYON_CATALOG = {
           "status": "check stock",
           "checkedAt": "2026-09-19",
           "stage": "arrival",
-          "checked": "19 Sep 2026"
+          "checked": "19 Sep 2026",
+          "badge": "Check stock"
         },
         {
           "id": "steam-cleaner",
@@ -4145,8 +4393,8 @@ window.CANYON_CATALOG = {
           "priceNote": "USD observed 19 Sep 2026; before tax/shipping; recheck at checkout",
           "url": "https://www.redcross.org/store/family-first-aid-kit-hard-pack/321324.html",
           "amazonUrl": null,
-          "image": "https://www.redcross.org/dw/image/v2/BBRM_PRD/on/demandware.static/-/Sites-PhysicalProductCatalog/default/dwddf7a6d3/Images/first-aid-supplies/home-first-aid-kit/321324-family-first-aid-kit-hard-pack-113pc.webp?sw=635&sh=635&sm=fit&sfrm=jpg",
-          "imageSource": "https://www.redcross.org/store/family-first-aid-kit-hard-pack/321324.html",
+          "image": null,
+          "imageSource": null,
           "why": "An organized, clearly identifiable kit is easy to find when needed.",
           "caveat": "Check existing supplies and expiry dates; adapt contents to the household.",
           "dimensions": "11 × 10.75 × 3 in",
@@ -4174,8 +4422,8 @@ window.CANYON_CATALOG = {
           "priceNote": "USD observed 19 Sep 2026; before tax/shipping; recheck selected option",
           "url": "https://www.redcross.org/store/deluxe-3-day-emergency-preparedness-kit/91052.html",
           "amazonUrl": null,
-          "image": "https://www.redcross.org/dw/image/v2/BBRM_PRD/on/demandware.static/-/Sites-PhysicalProductCatalog/default/dw13a4a59c/Images/preparedness/emergency-kit/91052-deluxe-3-day-emergency-prep-kit-2.webp?sw=635&sh=635&sm=fit&sfrm=jpg",
-          "imageSource": "https://www.redcross.org/store/deluxe-3-day-emergency-preparedness-kit/91052.html",
+          "image": null,
+          "imageSource": null,
           "why": "A starting point for light, radio and basic supplies kept in one accessible location.",
           "caveat": "Review contents against San Francisco guidance and add water, food and personal essentials for two; this is not a complete two-person kit.",
           "dimensions": "",
