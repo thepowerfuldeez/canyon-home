@@ -86,7 +86,7 @@ window.CANYON_CATALOG = {
           "price": 1999,
           "priceNote": "US configuration price: standard glass plus tilt- and height-adjustable stand. Base tilt-only version is $1,599.",
           "url": "https://www.apple.com/shop/buy-mac/studio-display",
-          "amazonUrl": null,
+          "amazonUrl": "https://www.amazon.com/dp/B0GR1KYLPY",
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/studio-display-og-202603?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1770765709335",
           "imageSource": "https://www.apple.com/shop/buy-mac/studio-display",
           "why": "27-inch 5K screen with an integrated camera, microphones and speakers. The adjustable stand handles monitor height cleanly without committing to a separate riser.",
@@ -104,6 +104,10 @@ window.CANYON_CATALOG = {
             {
               "url": "https://www.apple.com/shop/buy-mac/studio-display",
               "title": "Buy Studio Display - Apple"
+            },
+            {
+              "url": "https://www.amazon.com/dp/B0GR1KYLPY",
+              "title": "Amazon US: current Thunderbolt 5 Studio Display, standard glass, tilt- and height-adjustable stand, without AppleCare+"
             }
           ],
           "status": "shortlisted",
@@ -258,7 +262,7 @@ window.CANYON_CATALOG = {
           "price": null,
           "priceNote": "US product verified; live checkout price was not exposed reliably.",
           "url": "https://www.benq.com/en-us/lighting/monitor-light/screenbar-pro.html",
-          "amazonUrl": null,
+          "amazonUrl": "https://www.amazon.com/dp/B0CZ9P1QW9",
           "image": "https://image.benq.com/is/image/benqco/screenbar-pro-product?$ResponsivePreset$",
           "imageSource": "https://www.benq.com/en-us/lighting/monitor-light/screenbar-pro.html",
           "why": "Keeps the desktop clear while illuminating the working surface; automatic brightness and presence detection reduce adjustments.",
@@ -276,6 +280,10 @@ window.CANYON_CATALOG = {
             {
               "url": "https://www.benq.com/en-us/lighting/monitor-light/screenbar-pro.html",
               "title": "Ultrawide Monitor Light Bar｜BenQ ScreenBar Pro | BenQ US"
+            },
+            {
+              "url": "https://www.amazon.com/dp/B0CZ9P1QW9",
+              "title": "Amazon US: BenQ ScreenBar Pro, black, USB-C"
             }
           ],
           "status": "shortlisted",
@@ -422,12 +430,12 @@ window.CANYON_CATALOG = {
           "priceNote": "Included with the shortlisted Grovemade desk; no separate purchase.",
           "url": "https://grovemade.com/product/wood-standing-desk/",
           "amazonUrl": null,
-          "image": "https://grovemade.imgix.net/https%3A%2F%2Fgrovemade.com%2Fshop-static%2Fshop%2Fvariant%2Fgrovemade-standing-desk-oak-solid-program-galA-A1.jpg%3F_v%3D1712338333.255271?auto=format&ixlib=python-1.1.2&w=1000&s=3e675a1cc243b4df729e7dd8895bc085",
+          "image": "https://grovemade.imgix.net/https%3A%2F%2Fgrovemade.com%2Fshop-static%2Fshop%2Fvariant%2Fgrovemade-standing-desk-walnut-solid-program-galA-A1.jpg%3F_v%3D1712338294.99413?auto=format&ixlib=python-1.1.2&w=1100&s=b7d5d129df7c808b69aad132e1dab4d4",
           "imageSource": "https://grovemade.com/product/wood-standing-desk/",
           "why": "The selected desk already includes a full-width organizer, cable compartment and surge protector. Reserve sections for cables, stationery and small devices.",
           "caveat": "No additional drawer unit, cable basket or surge strip by default. If choosing UPLIFT, configure cable routing and storage with that desk instead. Leave slack for standing movement.",
           "dimensions": "",
-          "finish": "",
+          "finish": "Included with the walnut desk",
           "alternatives": [],
           "sources": [
             {
@@ -516,7 +524,7 @@ window.CANYON_CATALOG = {
           "price": 154.99,
           "priceNote": "Official US one-pack offer $154.99; regular $169.99. Verify one-pack selection and checkout price.",
           "url": "https://www.eero.com/shop/eero-7/buy",
-          "amazonUrl": null,
+          "amazonUrl": "https://www.amazon.com/dp/B0D954FD8R",
           "image": "https://contentful.prod.eero.com/contentful/o8zdilputr65/7ulkm1GCDconJztFHdmXmb/c0145ac9fd44d423dde5ef2b23407079/compressed_11-patria-xlarge.jpg.webp?fm=webp",
           "imageSource": "https://www.eero.com/shop/eero-7/buy",
           "why": "A simple single-router option if the apartment does not include a suitable gateway. Start with one unit and test actual coverage before adding mesh nodes.",
@@ -528,6 +536,10 @@ window.CANYON_CATALOG = {
             {
               "url": "https://www.eero.com/shop/eero-7/buy",
               "title": "eero 7 — one-pack"
+            },
+            {
+              "url": "https://www.amazon.com/dp/B0D954FD8R",
+              "title": "Amazon US: eero 7, 1-pack, without eero Plus"
             }
           ],
           "status": "pending",
@@ -1401,7 +1413,7 @@ window.CANYON_CATALOG = {
           "price": 32.99,
           "priceNote": "Observed US unit price, before tax and delivery; recheck at checkout.",
           "url": "https://store.zojirushi.com/products/smvh48",
-          "amazonUrl": null,
+          "amazonUrl": "https://www.amazon.com/dp/B0FGJCDT96",
           "image": "https://store.zojirushi.com/cdn/shop/files/SM-VH48PZ.png?v=1752869759",
           "imageSource": "https://store.zojirushi.com/products/smvh48",
           "why": "Compact vacuum insulation with a simple lid system makes taking hot water or brewed tea to the office straightforward.",
@@ -1419,6 +1431,10 @@ window.CANYON_CATALOG = {
             {
               "url": "https://store.zojirushi.com/products/smvh48",
               "title": "16 oz. GoCafe® Insulated Mug SM-VH48\n – Zojirushi Online Store"
+            },
+            {
+              "url": "https://www.amazon.com/dp/B0FGJCDT96",
+              "title": "Amazon US: Zojirushi SM-VH48-XA GoCafe, 16 oz, stainless finish"
             }
           ],
           "status": "shortlisted",
@@ -2996,7 +3012,7 @@ window.CANYON_CATALOG = {
           "price": 48.99,
           "priceNote": "USD observed 19 Sep 2026; before tax/shipping; recheck at checkout",
           "url": "https://www.philips-hue.com/en-us/p/hue-white-ambiance-60w-a19-2pack-e26-smart-bulbs/046677590949",
-          "amazonUrl": null,
+          "amazonUrl": "https://www.amazon.com/dp/B0FMGZLMKG",
           "image": "https://www.assets.signify.com/is/image/Signify/046677590949-929003855102-Hue-WA-810-A19-E26-2P-NAM-RTP?wid=500&qlt=82",
           "imageSource": "https://www.philips-hue.com/en-us/p/hue-white-ambiance-60w-a19-2pack-e26-smart-bulbs/046677590949",
           "why": "Warm-to-cool white light with low dimming provides functional day light and gentle evening light.",
@@ -3008,10 +3024,15 @@ window.CANYON_CATALOG = {
             {
               "url": "https://www.philips-hue.com/en-us/p/hue-white-ambiance-60w-a19-2pack-e26-smart-bulbs/046677590949",
               "title": "Philips Hue — White Ambiance 60W A19 E26, 2-pack"
+            },
+            {
+              "url": "https://www.amazon.com/dp/B0FMGZLMKG",
+              "title": "Amazon US — product identity checked"
             }
           ],
           "status": "shortlist",
           "checkedAt": "2026-09-19",
+          "amazonNote": "White Ambiance 2-pack, 810lm, 7.2W, E26, new 1000K–20000K full-spectrum version. Title and exact UPC match; ignore contradictory generic multicolor/6500K specification field.",
           "stage": "arrival",
           "checked": "19 Sep 2026"
         },
@@ -3054,7 +3075,7 @@ window.CANYON_CATALOG = {
           "price": 54.99,
           "priceNote": "USD observed 19 Sep 2026; before tax/shipping; recheck selected option",
           "url": "https://www.philips-hue.com/en-us/p/hue-tap-dial-switch/046677578800",
-          "amazonUrl": null,
+          "amazonUrl": "https://www.amazon.com/dp/B0B6LLKHTM",
           "image": "https://www.assets.signify.com/is/image/Signify/046677578800-929003500301-Philips-Hue-Tap-dial-switch-NAM-White-RTP?wid=500&qlt=82",
           "imageSource": "https://www.philips-hue.com/en-us/p/hue-tap-dial-switch/046677578800",
           "why": "One tactile control at each bedside: select a scene by button, then turn the dial to dim.",
@@ -3077,10 +3098,15 @@ window.CANYON_CATALOG = {
             {
               "url": "https://www.philips-hue.com/en-us/p/hue-tap-dial-switch/046677578800",
               "title": "Philips Hue — Tap Dial Switch"
+            },
+            {
+              "url": "https://www.amazon.com/dp/B0B6LLKHTM",
+              "title": "Amazon US — product identity checked"
             }
           ],
           "status": "check stock",
           "checkedAt": "2026-09-19",
+          "amazonNote": "White wall-plate 1-pack, not black, button-only remote or regular dimmer switch.",
           "stage": "arrival",
           "checked": "19 Sep 2026",
           "badge": "Check stock"
@@ -3711,7 +3737,7 @@ window.CANYON_CATALOG = {
           "price": 115.0,
           "priceNote": "USD observed 19 Sep 2026; before tax/shipping; recheck selected option",
           "url": "https://us.josephjoseph.com/products/tota-90l-laundry-separation-basket-ecru",
-          "amazonUrl": null,
+          "amazonUrl": "https://www.amazon.com/dp/B0BS1BXM4N",
           "image": "https://us.josephjoseph.com/cdn/shop/products/50020_PDP_01_900x.jpg?v=1675091674",
           "imageSource": "https://us.josephjoseph.com/products/tota-90l-laundry-separation-basket-ecru",
           "why": "Two removable 45 L inner bags match the requested routine: one for whites, one for everything else. Carry each bag straight to the washer.",
@@ -3723,10 +3749,15 @@ window.CANYON_CATALOG = {
             {
               "url": "https://us.josephjoseph.com/products/tota-90l-laundry-separation-basket-ecru",
               "title": "Joseph Joseph — Tota 90L Laundry Separation Basket"
+            },
+            {
+              "url": "https://www.amazon.com/dp/B0BS1BXM4N",
+              "title": "Amazon US — product identity checked"
             }
           ],
           "status": "layout confirmed",
           "checkedAt": "2026-09-19",
+          "amazonNote": "90L Ecru50020. One hamper with two bags, not smaller60L.",
           "stage": "arrival",
           "checked": "19 Sep 2026"
         },
@@ -4024,7 +4055,7 @@ window.CANYON_CATALOG = {
           "price": 729.99,
           "priceNote": "Direct listed price; currently out of stock. Verify authorized retailer stock and current promotions.",
           "url": "https://www.dyson.com/vacuum-cleaners/cordless/v12/detect-slim-yellow",
-          "amazonUrl": null,
+          "amazonUrl": "https://www.amazon.com/dp/B0B4X3H4MZ",
           "image": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/gallery/home/floorcare/cordless/v12-detect-slim/Web_V12_Detect-Slim_Gallery_PDP_10.jpg",
           "imageSource": "https://www.dyson.com/vacuum-cleaners/cordless/v12/detect-slim-yellow",
           "why": "The lighter Dyson candidate suits quick apartment cleaning and frequent use; keep it in a permanent charging home.",
@@ -4042,10 +4073,15 @@ window.CANYON_CATALOG = {
             {
               "url": "https://www.dyson.com/vacuum-cleaners/cordless/v12/detect-slim-yellow",
               "title": "Dyson — V12 Detect Slim"
+            },
+            {
+              "url": "https://www.amazon.com/dp/B0B4X3H4MZ",
+              "title": "Amazon US — product identity checked"
             }
           ],
           "status": "check stock",
           "checkedAt": "2026-09-19",
+          "amazonNote": "Standard V12 Detect Slim listing, not Origin or third-party cloth bundle; compare current included accessories and color against direct Dyson selection before ordering.",
           "stage": "arrival",
           "checked": "19 Sep 2026",
           "badge": "Check stock"
@@ -4060,7 +4096,7 @@ window.CANYON_CATALOG = {
           "price": 249.99,
           "priceNote": "USD observed 19 Sep 2026; before tax/shipping; recheck at checkout",
           "url": "https://dupray.com/en-us/products/neat-plus-steam-cleaner",
-          "amazonUrl": null,
+          "amazonUrl": "https://www.amazon.com/dp/B0D43LXVCR",
           "image": "https://cdn.shopify.com/s/files/1/2781/4384/files/product-neatplus-main-1_de3f6574-e6c7-44b5-adbf-df0ed6c59c3c.png?v=1758206486",
           "imageSource": "https://dupray.com/en-us/products/neat-plus-steam-cleaner",
           "why": "A compact cleaner with refill-during-use and included detail tools suits occasional grout and bathroom cleaning.",
@@ -4072,10 +4108,15 @@ window.CANYON_CATALOG = {
             {
               "url": "https://dupray.com/en-us/products/neat-plus-steam-cleaner",
               "title": "Dupray — Neat Plus Steam Cleaner, US version"
+            },
+            {
+              "url": "https://www.amazon.com/dp/B0D43LXVCR",
+              "title": "Amazon US — product identity checked"
             }
           ],
           "status": "shortlist",
           "checkedAt": "2026-09-19",
+          "amazonNote": "US120V Neat Plus Essential Pack, not older Neat DUP020WNA and not Ultimate accessory pack. Confirm selected direct-store pack matches17-accessory Essential pack.",
           "stage": "core",
           "checked": "19 Sep 2026"
         },
@@ -4151,7 +4192,7 @@ window.CANYON_CATALOG = {
           "image": "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Essentials_Final_2026_01.jpg?v=1769808426",
           "imageSource": "https://www.blueland.com/products/the-clean-essentials",
           "why": "One set covers multi-surface, bathroom, glass and foaming hand soap with reusable bottles and compact refills.",
-          "caveat": "One-time kit first. Test efficacy and surface compatibility before enabling replenishment; cleaners are not automatically disinfectants.",
+          "caveat": "One-time kit first. Test efficacy and surface compatibility before enabling replenishment; cleaners are not automatically disinfectants. Refill proposal: trial the kit first, then a 3-month autoship review interval; skip or reduce glass cleaner refills if they accumulate. No subscription activated.",
           "dimensions": "4 bottles + initial tablets",
           "finish": "Clear / pale colors",
           "alternatives": [],
@@ -4159,6 +4200,10 @@ window.CANYON_CATALOG = {
             {
               "url": "https://www.blueland.com/products/the-clean-essentials",
               "title": "Blueland — Clean Essentials Kit"
+            },
+            {
+              "url": "https://www.blueland.com/pages/get-subscription",
+              "title": "Blueland — adjustable autoship program"
             }
           ],
           "status": "shortlist",
@@ -4180,7 +4225,7 @@ window.CANYON_CATALOG = {
           "image": "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Laundry_Essentials_Kit_Spring_Bloom_Final_2026_01.jpg?v=1780346157",
           "imageSource": "https://www.blueland.com/products/laundry-essentials-kit",
           "why": "An unscented base, stain booster and dryer balls form a compact routine without heavy fragrance.",
-          "caveat": "For compatible everyday laundry only. Follow garment care; exclude wool, silk and cashmere. Boll & Branch recommends liquid detergent for its bedding, so use the separate liquid below. Start with one-time purchase.",
+          "caveat": "For compatible everyday laundry only. Follow garment care; exclude wool, silk and cashmere. Boll & Branch recommends liquid detergent for its bedding, so use the separate liquid below. Start with one-time purchase. Refill proposal: 60 detergent tablets every 3 months for roughly 2–4 compatible loads/week; adjust to actual loads and dosing. Refill booster only when needed, not dryer balls. No subscription activated.",
           "dimensions": "Detergent tin + 60 tablets; booster; 3 dryer balls",
           "finish": "Free & Clear preferred; image may show another kit fragrance",
           "alternatives": [],
@@ -4188,6 +4233,10 @@ window.CANYON_CATALOG = {
             {
               "url": "https://www.blueland.com/products/laundry-essentials-kit",
               "title": "Blueland — Laundry Essentials Kit, Free & Clear"
+            },
+            {
+              "url": "https://www.blueland.com/products/laundry-refill-packs",
+              "title": "Blueland — 60-tablet / 3-month refill option"
             }
           ],
           "status": "shortlist",
@@ -4275,6 +4324,155 @@ window.CANYON_CATALOG = {
             {
               "url": "https://steamery.us/products/hypoallergenic-laundry-detergent",
               "title": "Steamery — Hypoallergenic Laundry Detergent, 750 ml"
+            }
+          ],
+          "status": "shortlist",
+          "checkedAt": "2026-09-19",
+          "stage": "arrival",
+          "checked": "19 Sep 2026"
+        },
+        {
+          "id": "toilet-cleaner",
+          "role": "Toilet-bowl liquid",
+          "name": "Toilet Bowl Cleaner, Fresh Mint",
+          "brand": "Seventh Generation",
+          "quantity": 1,
+          "priority": "Move-in",
+          "price": 4.99,
+          "priceNote": "USD per bottle/pair/pack; observed 19 Sep 2026; before tax/shipping",
+          "url": "https://www.target.com/p/-/A-87485931",
+          "amazonUrl": null,
+          "image": "https://www.seventhgeneration.com/sites/default/files/styles/325x325_no_focal_point/public/2023-01/732913451661_PDP_Front-2500x2500-42e2b217-a311-4551-bd37-97173375d283.png?itok=Vgb0kEp_",
+          "imageSource": "https://www.seventhgeneration.com/toilet-bowl-cleaner-fresh-mint",
+          "why": "A dedicated acidic bowl cleaner targets toilet rings and stains that the general surface kit does not cover.",
+          "caveat": "Mint scented, not fragrance-free. Routine cleaner, not a disinfectant claim. Use only as labeled; never mix with bleach or other cleaners. One bottle first.",
+          "dimensions": "24 fl oz",
+          "finish": "Fresh mint",
+          "alternatives": [],
+          "sources": [
+            {
+              "url": "https://www.target.com/p/-/A-87485931",
+              "title": "Seventh Generation — Toilet Bowl Cleaner, Fresh Mint"
+            },
+            {
+              "url": "https://www.seventhgeneration.com/toilet-bowl-cleaner-fresh-mint",
+              "title": "Seventh Generation — formula and use instructions"
+            }
+          ],
+          "status": "shortlist",
+          "checkedAt": "2026-09-19",
+          "stage": "arrival",
+          "checked": "19 Sep 2026"
+        },
+        {
+          "id": "cleaning-gloves",
+          "role": "Reusable cleaning gloves",
+          "name": "High & Dry Cleaning Gloves",
+          "brand": "Full Circle",
+          "quantity": 2,
+          "priority": "Move-in",
+          "price": 9.99,
+          "priceNote": "USD per bottle/pair/pack; observed 19 Sep 2026; before tax/shipping",
+          "url": "https://fullcirclehome.com/products/splash-patrol",
+          "amazonUrl": null,
+          "image": "https://fullcirclehome.com/cdn/shop/products/FC16128GY_SplashPatrol_Grey_1_OP_A.jpg?v=1751385256",
+          "imageSource": "https://fullcirclehome.com/products/splash-patrol",
+          "why": "Lined gloves with cuff and hanging loop keep cleaning comfortable and dry between uses. Reserve one marked pair for bathroom and one for general cleaning.",
+          "caveat": "Natural latex exterior: choose a latex-free alternative if needed. Check hand fit; do not assume resistance to every cleaning chemical.",
+          "dimensions": "12.8 × 5.7 × 0.39 in",
+          "finish": "Gray",
+          "alternatives": [],
+          "sources": [
+            {
+              "url": "https://fullcirclehome.com/products/splash-patrol",
+              "title": "Full Circle — High & Dry Cleaning Gloves"
+            }
+          ],
+          "status": "shortlist",
+          "checkedAt": "2026-09-19",
+          "stage": "arrival",
+          "checked": "19 Sep 2026"
+        },
+        {
+          "id": "duster",
+          "role": "Dust high shelves without sprays",
+          "name": "Microfiber Extendable Duster",
+          "brand": "OXO",
+          "quantity": 1,
+          "priority": "Move-in",
+          "price": 19.99,
+          "priceNote": "USD per bottle/pair/pack; observed 19 Sep 2026; before tax/shipping",
+          "url": "https://www.oxo.com/microfiber-extendable-duster.html",
+          "amazonUrl": null,
+          "image": "https://www.oxo.com/media/catalog/product/cache/b2f1ce2dfe10d3d31bf2056bf6e0d10f/g/g/gg_1334580_1_1_.jpg",
+          "imageSource": "https://www.oxo.com/microfiber-extendable-duster.html",
+          "why": "A pivoting washable head reaches shelves and corners; removable microfiber reduces disposable refill clutter.",
+          "caveat": "Cold wash without fabric softener or bleach and air dry. Use a separate soft cloth for delicate screens.",
+          "dimensions": "Overall length approx. 27–54 in",
+          "finish": "Red / black",
+          "alternatives": [],
+          "sources": [
+            {
+              "url": "https://www.oxo.com/microfiber-extendable-duster.html",
+              "title": "OXO — Microfiber Extendable Duster"
+            }
+          ],
+          "status": "shortlist",
+          "checkedAt": "2026-09-19",
+          "stage": "arrival",
+          "checked": "19 Sep 2026"
+        },
+        {
+          "id": "trash-liners",
+          "role": "Kitchen trash refills",
+          "name": "Custom Fit Liners Code H, 100-pack",
+          "brand": "simplehuman",
+          "quantity": 1,
+          "priority": "Move-in",
+          "price": 26,
+          "priceNote": "USD per bottle/pair/pack; observed 19 Sep 2026; before tax/shipping",
+          "url": "https://www.simplehuman.com/products/custom-fit-liners-code-h-white",
+          "amazonUrl": null,
+          "image": "https://www.simplehuman.com/cdn/shop/files/CW0168MC_1200x1200.png?v=1787291801",
+          "imageSource": "https://www.simplehuman.com/products/custom-fit-liners-code-h-white",
+          "why": "Exact liner code for the kitchen 58 L Step Recycler’s trash compartment; convenient refill pocket packs.",
+          "caveat": "Use on the trash side only. Keep recycling loose as required by the building. Verify final bin liner code before ordering. Start one-time; 100 bags often makes frequent autoship unnecessary.",
+          "dimensions": "100 liners; Code H",
+          "finish": "White, unscented",
+          "alternatives": [],
+          "sources": [
+            {
+              "url": "https://www.simplehuman.com/products/custom-fit-liners-code-h-white",
+              "title": "simplehuman — Custom Fit Liners Code H, 100-pack"
+            }
+          ],
+          "status": "shortlist",
+          "checkedAt": "2026-09-19",
+          "stage": "arrival",
+          "checked": "19 Sep 2026"
+        },
+        {
+          "id": "compost-liners",
+          "role": "Compost-caddy refills",
+          "name": "Compostable Custom Fit Liners Code Z, 60-pack",
+          "brand": "simplehuman",
+          "quantity": 1,
+          "priority": "Move-in",
+          "price": 20,
+          "priceNote": "USD per bottle/pair/pack; observed 19 Sep 2026; before tax/shipping",
+          "url": "https://www.simplehuman.com/products/custom-fit-liners-code-z-compostable",
+          "amazonUrl": null,
+          "image": "https://www.simplehuman.com/cdn/shop/files/CW0614_codeZ_60pack_1200x1200.png?v=1776106083",
+          "imageSource": "https://www.simplehuman.com/products/custom-fit-liners-code-z-compostable",
+          "why": "The specified 4 L compost caddy has a matching small liner, so emptying food scraps is quick and tidy.",
+          "caveat": "Confirm the building’s compost bag rules; use only accepted certified compostable bags. Paper bags or no liner are alternatives. Change regularly rather than waiting until full. Optional 60-pack every 4 months is a starting proposal if usage is about one bag every two days; review before activation.",
+          "dimensions": "60 liners; 4 L / Code Z",
+          "finish": "Pale green",
+          "alternatives": [],
+          "sources": [
+            {
+              "url": "https://www.simplehuman.com/products/custom-fit-liners-code-z-compostable",
+              "title": "simplehuman — Compostable Custom Fit Liners Code Z, 60-pack"
             }
           ],
           "status": "shortlist",
@@ -4448,13 +4646,13 @@ window.CANYON_CATALOG = {
           "quantity": 1,
           "priority": "Move-in",
           "price": 42,
-          "priceNote": "24-roll one-time pack; check no subscription is selected",
+          "priceNote": "24-roll one-time pack. Subscription is optional after observing use; no recurring charge included.",
           "url": "https://us.whogivesacrap.org/products/100-recycled-toilet-paper-jumbo-rolls?variant=41289008775230",
           "amazonUrl": null,
           "image": "https://us.whogivesacrap.org/cdn/shop/files/rec_tp_big_34a90b7c-265f-4990-921c-db9a4c132760.jpg?v=1759119354",
           "imageSource": "https://us.whogivesacrap.org/products/100-recycled-toilet-paper-jumbo-rolls",
           "why": "A replenishable household staple with simple bulk ordering.",
-          "caveat": "Choose pack size to fit actual storage. Start one-time; tissues and kitchen paper are separate initial supplies.",
+          "caveat": "Choose pack size to fit actual storage. Start one-time; tissues and kitchen paper are separate initial supplies. Replenishment proposal: begin with 24 rolls, check remaining stock after 6–8 weeks, then target roughly 2-month deliveries if consumption supports it; select the closest offered schedule and skip excess. No subscription activated.",
           "dimensions": "",
           "finish": "Recycled paper",
           "alternatives": [],
