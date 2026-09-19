@@ -15,3 +15,5 @@ Serve this directory with any static web server, for example `python3 -m http.se
 Progress is stored in browser localStorage and can be exported/restored as a JSON file. No checkout or subscription actions are performed. Product photography is remotely served by its source. No personal documents, receipts, account details, or addresses belong in this repository.
 
 Prices are research snapshots, not live quotes. Delivery, availability, final configuration and return terms require confirmation with the retailer.
+
+Revised 19 September 2026: rejected and duplicate products removed; existing pieces separated from new purchases; selected models compared with current alternatives. Replacement models use new IDs, and earlier saved selections remain in downloaded progress backups. Section notes retain unresolved layout and inventory decisions.
